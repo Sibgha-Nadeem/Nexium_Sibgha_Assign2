@@ -204,7 +204,6 @@ export const urduDictionary: Record<string, string> = {
   "weapons": "ہتھیار",
   "boat": "کشتی",
   "furniture": "سامان",
-  "often": "اکثر",
   "eager": "بے تاب",
   "circle": "گھیرہ",
   "waiting": "انتظار",
