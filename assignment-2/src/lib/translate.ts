@@ -159,8 +159,6 @@ export const urduDictionary: Record<string, string> = {
   "how are you": "آپ کیسے ہیں",
   "i am fine": "میں ٹھیک ہوں",
   "see you": "پھر ملیں گے",
-
-  // Missing words from your paragraph:
   "himself": "خود",
   "mild": "ہلکا",
   "summer-cool": "گرمیوں کی ٹھنڈک",
@@ -220,8 +218,6 @@ export const urduDictionary: Record<string, string> = {
   "patient": "بردبار",
   "hammer": "ہتھوڑا",
   "arm": "بازو",
-
-  // Already present:
   "reigned": "راج کرنا",
   "anticipated": "متوقع",
   "peculiarly": "غیر معمولی طور پر",
